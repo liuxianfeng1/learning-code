@@ -1,6 +1,0 @@
-MNIST_data/
-logs/
-.idea/
-__pycache__/
-log/*
-experiment/model/*
